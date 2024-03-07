@@ -1,0 +1,12 @@
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\bin\Debug\net8.0\InterfaceAbstract.deps.json
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\bin\Debug\net8.0\InterfaceAbstract.dll
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\bin\Debug\net8.0\InterfaceAbstract.pdb
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.csproj.AssemblyReference.cache
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.AssemblyInfoInputs.cache
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.AssemblyInfo.cs
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.csproj.CoreCompileInputs.cache
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.dll
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\refint\InterfaceAbstract.dll
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\InterfaceAbstract.pdb
+D:\C# PROJELER\InterfaceAndAbstract\InterfaceAbstract\obj\Debug\net8.0\ref\InterfaceAbstract.dll
